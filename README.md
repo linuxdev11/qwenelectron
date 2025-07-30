@@ -4,8 +4,6 @@
 
 Use Qwen directly from your desktop, without opening a browser tab. Lightweight, fast, and open source.
 
-![Qwen Electron Screenshot](screenshot.png) <!-- Загрузи скриншот! -->
-<!-- Если пока нет — удали эту строку -->
 
 ## 🚀 Features
 - Clean desktop app experience
@@ -34,3 +32,13 @@ It simply wraps `chat.qwen.ai` in an Electron window — like a PWA.
 1. Clone the repo:
    ```bash
    git clone https://github.com/linuxdev11/qwenelectron.git
+   npm install
+   npm start
+
+   ## 🙌 Thanks
+To the Qwen team for building such a powerful and open AI model 🙏  
+Check out: [qwen.ai](https://qwen.ai)
+
+## 📬 Feedback & Issues
+Found a bug? Want a feature?  
+Open an issue — I’ll try to help!
