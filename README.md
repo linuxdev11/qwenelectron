@@ -29,13 +29,11 @@ It simply wraps `chat.qwen.ai` in an Electron window — like a PWA.
 👉 [Download for Windows (4PDA)](https://4pda.to/forum/index.php?act=attach&id=33658868&dlsess=c3908e4dfc05285cc82f17f066b123b3)
 
 ## 🛠️ Build from Source
-1. Clone the repo:
    ```bash
    git clone https://github.com/linuxdev11/qwenelectron.git
    npm install
    npm start
 
-   ## 🙌 Thanks
 To the Qwen team for building such a powerful and open AI model 🙏  
 Check out: [qwen.ai](https://qwen.ai)
 
