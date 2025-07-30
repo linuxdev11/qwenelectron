@@ -33,6 +33,7 @@ It simply wraps `chat.qwen.ai` in an Electron window — like a PWA.
    git clone https://github.com/linuxdev11/qwenelectron.git
    npm install
    npm start
+   ```
 
 To the Qwen team for building such a powerful and open AI model 🙏  
 Check out: [qwen.ai](https://qwen.ai)
